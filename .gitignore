@@ -1,0 +1,8 @@
+# runtime / generated
+node_modules/
+*.log
+*.log.1
+.DS_Store
+Thumbs.db
+_tools/
+*.zip
